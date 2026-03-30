@@ -1,63 +1,84 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Ashen+Lakmal;A+Software+Developer;BICT+Undergraduate" alt="Typing SVG" /> </p>
-### A Passionate Software Developer from Sri Lanka 🇱🇰
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashenlakmal&color=2196F3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=ashenlakmal&label=Profile%20views&color=0e75b6&style=flat" alt="ashenlakmal" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=70&lines=Hi+there,+I'm+Ashen+Lakmal!+👋;Aspiring+Full-Stack+Developer;MERN+Stack+%26+PHP+Enthusiast;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
-### 💫 About Me
-I am a **BICT Undergraduate** at **Uva Wellassa University of Sri Lanka**. I love building software solutions and exploring new technologies. I'm currently focused on web development and improving my full-stack skills.
+<div align="center">
+  <a href="mailto:kahadawaarachchiashen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ashen-lakmal2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://cheerful-pony-bc99ce.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
+</div>
 
-- 🔭 I’m currently working on **Waste2Worth**
-- 🌱 I’m currently learning **React, Express, and Node.js**
-- 💬 Ask me about **Java, C++, or Python**
-- 📫 How to reach me: **kahadawaarachchiashen@gmail.com**
+<br/>
 
----
+## 👨‍💻 **About Me**
 
-### 🛠 Languages and Tools
+I am a highly motivated **Bachelor of Information and Communication Technology (Hons)** undergraduate at **Uva Wellassa University of Sri Lanka**. 
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+Specializing in **Full-Stack Development**, I am passionate about building responsive, user-centric web applications and architecting robust backend systems. I am currently leading the development of scalable solutions using the **MERN Stack** and **PHP**. 
 
----
+Always eager to explore new technologies, tackle challenging problems, and write clean, efficient code. Let's connect and build something amazing!
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashenlakmal&show_icons=true&theme=tokyonight" alt="ashenlakmal github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenlakmal&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
----
+<br>
 
-### 🤝 Connect with me:
-<p align="left">
-  <a href="mailto:kahadawaarachchiashen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## 🛠️ **Tech Stack & Tools**
 
-<br />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cs,php,bootstrap,tailwind,nodejs,react,express,mongodb,mysql,git,githubactions,postman,figma,canva,linux&perline=11" alt="Tech Stack Icons" />
+  </a>
+</div>
 
-*"Coding the future, one line at a time."*
+*(Familiar with modern backend architectures, responsive UI/UX prototyping, and scalable database management)*
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<br>
+
+## 🚀 **Featured Projects**
+
+| Project Name | Stack | GitHub Repository | Live Demo / Design |
+| :--- | :--- | :--- | :--- |
+| **Waste2Worth** - Full-Stack Waste Management System | `MERN Stack` | [**GitHub Repo**](https://github.com/ashenlakmal/Waste2Worth) | [**Live Demo**](https://waste2-worth-ten.vercel.app/) |
+| **EchoViz** - Accessible UI/UX Prototype | `Figma` | - | [**Prototype**](https://www.figma.com/proto/UkHp7jmTmTcOSpBBPk3isa/EchoViz?node-id=92-7&p=f&t=LDLek18PmXRCAphx-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=92%3A7) |
+| **LFMS** - Lost & Found Management System | `PHP (OOP)` | [**GitHub Repo**](https://github.com/buddiniweerakkodi/Lost-and-Found-Management-System) | [**Live Demo**](https://lfms.atwebpages.com/public/) |
+| **LBBMS** - Smart Library Management System | `PHP`, `JS` | [**GitHub Repo**](https://github.com/ashenlakmal/Library-Book-Borrowing-and-Management-System-LBBMS-) | [**Live Demo**](https://library-book-borrowing-and-management-system-lbbms.atwebpages.com/) |
+| **Touroopi** - Travel Management System | `PHP`, `JS` | [**GitHub Repo**](https://github.com/ashenlakmal/Touroopi) | - |
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<br>
+
+## 📈 **Coding Activity & Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashenlakmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenlakmal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashenlakmal&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
