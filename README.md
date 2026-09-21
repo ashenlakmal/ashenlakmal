@@ -1,123 +1,239 @@
+<!-- ========================================================================================= -->
+<!-- ======================= DARK PURPLE SENIOR PROFILE ====================================== -->
+<!-- ========================================================================================= -->
+
+<!-- DYNAMIC ANIMATED HEADER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashenlakmal&color=2196F3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=220&section=header&text=Ashen%20Lakmal&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Architect%20%7C%20Full-Stack%20Expert%20%7C%20QA%20Specialist&descAlignY=55&descSize=22" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=70&lines=Hi+there,+I'm+Ashen+Lakmal!+👋;Aspiring+Full-Stack+Developer+Intern;MERN+Stack+%26+PHP+Enthusiast;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+  <a href="https://github.com/ashenlakmal" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ashenlakmal&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  </a>
 </div>
 
+<br><br>
+
+<!-- PROFESSIONAL TYPING ANIMATION (DARK PURPLE THEME) -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&weight=600&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=80&lines=Hi+there,+I'm+Ashen+Lakmal;Architecting+Scalable+Enterprise+Web+%26+Mobile+Solutions;Mobile+App+Developer+(Flutter+%7C+Kotlin+%7C+Android);Full-Stack+Engineer+(Angular+%7C+Spring+Boot+%7C+MERN);QA+Automation+Master+(Playwright+%7C+Selenium+%7C+Postman);Bridging+the+gap+between+Design,+Code,+and+Quality" alt="Typing SVG" />
+  </a>
 </div>
 
+<!-- SOCIAL LINKS & CONTACT DESK -->
 <div align="center">
-  <a href="mailto:kahadawaarachchiashen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ashen-lakmal2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://cheerful-pony-bc99ce.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
+  <br>
+  <a href="mailto:kahadawaarachchiashen@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ashen-lakmal2"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://cheerful-pony-bc99ce.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/ashenlakmal"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <br><br>
 </div>
 
-<br/>
+<hr style="border: 1px solid #4B0082; border-radius: 5px; width: 90%;">
 
-
-<br>
-<h2 align="center">ABOUT ME</h2>
-<br>
-
-I am a highly motivated **Bachelor of Information and Communication Technology (Hons)** undergraduate at **Uva Wellassa University of Sri Lanka**. 
-
-Specializing in **Full-Stack Development**, I am passionate about building responsive, user-centric web applications and architecting robust backend systems. I am currently leading the development of scalable solutions using the **MERN Stack** and **PHP**. 
-
-Always eager to explore new technologies, tackle challenging problems, and write clean, efficient code. Let's connect and build something amazing!
-
-<br>
-<p align="center"><i>"Coding the future, one line at a time."</i></p>
-
-<br>
-
+<!-- ======================= SNAKE ANIMATION (GITHUB CONTRIBUTION GRID) ======================= -->
+<h2 align="center">GitHub Contribution Grid</h2>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashenlakmal/ashenlakmal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashenlakmal/ashenlakmal/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashenlakmal/ashenlakmal/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
-
+<hr style="border: 1px solid #4B0082; border-radius: 5px; width: 90%;">
 <br>
 
-<h2 align="center">TECH STACK & TOOLS</h2>
-<p align="center">━ <i>Architecting Scalable Solutions & Engaging Interfaces</i> ━</p>
+<!-- ======================= EXECUTIVE SUMMARY ======================= -->
+<table align="center" border="0" cellpadding="20" cellspacing="0" width="95%">
+  <tr>
+    <td width="65%" valign="top">
+      <h2 style="color: #8A2BE2;">About My Engineering Journey</h2>
+      <p style="font-size: 16px; line-height: 1.7; text-align: justify;">
+        I am a highly driven <b>Software Engineer</b> with a profound passion for building robust, high-performance, and scalable applications. My expertise lies at the critical intersection of seamless frontend interfaces, resilient backend microservices, and airtight quality assurance. I don't just write code; I engineer solutions that solve real-world problems.
+      </p>
+      <p style="font-size: 16px; line-height: 1.7; text-align: justify;">
+        Possessing a comprehensive command over the <b>Full-Stack Ecosystem</b>, <b>Mobile Development</b>, and <b>Automated Testing</b>, I design systems built to scale from day one. Whether it's crafting cross-platform mobile experiences, orchestrating complex databases, or ensuring zero-defect deployments through automated pipelines, my focus is always on delivering enterprise-grade software.
+      </p>
+      <br>
+      <h3 style="color: #4B0082;">Core Competencies & Domains:</h3>
+      <ul>
+        <li><b>Mobile Ecosystem:</b> Native Android (Kotlin), Cross-Platform (Flutter), Mobile UI/UX Architecture.</li>
+        <li><b>Full-Stack Mastery:</b> Angular, React, Spring Boot, Express.js, Node.js, PHP (OOP).</li>
+        <li><b>QA Automation & Testing:</b> End-to-End browser testing via Playwright, Selenium, & API testing with Postman.</li>
+        <li><b>DevOps & Infrastructure:</b> CI/CD Pipelines, GitHub Actions, Linux Server Administration, Cloud Deployments.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="center">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100%" alt="Developer GIF" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(75, 0, 130, 0.5);" />
+    </td>
+  </tr>
+</table>
 
 <br>
-
-<h3 align="center">FRONTEND DEVELOPMENT</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend" />
-</div>
-
+<hr style="border: 1px solid #4B0082; border-radius: 5px; width: 90%;">
 <br>
 
-<h3 align="center">BACKEND & LANGUAGES</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python,c,cs" alt="Backend" />
-</div>
-
-<br>
-
-<h3 align="center">DATABASES</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
-  <img src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=%23CC2927" width="48" height="48" alt="MS SQL Server" />
-</div>
-
-<br>
-
-<h3 align="center">HOSTING, APIS & DEPLOYMENT</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Hosting" />
-  <img src="https://api.iconify.design/simple-icons:render.svg?color=%2346E3B7" width="48" height="48" alt="Render" />
-  <img src="https://api.iconify.design/logos:jwt-icon.svg" width="48" height="48" alt="JWT" />
-  <img src="https://api.iconify.design/simple-icons:web3dotjs.svg?color=%233B82F6" width="48" height="48" alt="Web3Forms" />
-</div>
-
-<br>
-
-<h3 align="center">TOOLS & VERSION CONTROL</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,linux,postman,npm" alt="Tools" />
-  <img src="https://api.iconify.design/simple-icons:nodemon.svg?color=%2376D04B" width="48" height="48" alt="Nodemon" />
-</div>
-
-<br>
-
-<h3 align="center">DESIGN & CONTENT CREATION</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  <img src="https://www.google.com/s2/favicons?domain=canva.com&sz=128" width="48" height="48" alt="Canva" style="border-radius: 10px;" />
-  <img src="https://www.google.com/s2/favicons?domain=capcut.com&sz=128" width="48" height="48" alt="CapCut" style="border-radius: 10px;" />
-  <img src="https://www.google.com/s2/favicons?domain=filmora.wondershare.com&sz=128" width="48" height="48" alt="Filmora" style="border-radius: 10px;" />
-</div>
-
-<br>
-
-<h2 align="center">fEATURED PROJECTS</h2>
-
-| Project Name | Stack | GitHub Repository | Live Demo / Design |
-| :--- | :--- | :--- | :--- |
-| **Waste2Worth** - Full-Stack Waste Management System | `MERN Stack` | [**GitHub Repo**](https://github.com/ashenlakmal/Waste2Worth) | [**Live Demo**](https://waste2-worth-ten.vercel.app/) |
-| **EchoViz** - Accessible UI/UX Prototype | `Figma` | - | [**Prototype**](https://www.figma.com/proto/UkHp7jmTmTcOSpBBPk3isa/EchoViz?node-id=92-7&p=f&t=LDLek18PmXRCAphx-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=92%3A7) |
-| **LFMS** - Lost & Found Management System | `PHP (OOP)` | [**GitHub Repo**](https://github.com/buddiniweerakkodi/Lost-and-Found-Management-System) | [**Live Demo**](https://lfms.atwebpages.com/public/) |
-| **LBBMS** - Smart Library Management System | `PHP`, `JS` | [**GitHub Repo**](https://github.com/ashenlakmal/Library-Book-Borrowing-and-Management-System-LBBMS-) | [**Live Demo**](https://library-book-borrowing-and-management-system-lbbms.atwebpages.com/) |
-| **Touroopi** - Travel Management System | `PHP`, `JS` | [**GitHub Repo**](https://github.com/ashenlakmal/Touroopi) | - |
-
+<!-- ======================= MASSIVE 100+ TECH STACK GRID ======================= -->
+<h2 align="center">The Ultimate Technology Arsenal</h2>
+<p align="center"><i>A comprehensive overview of the languages, frameworks, and enterprise tools I leverage daily.</i></p>
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+  <!-- CORE LANGUAGES -->
+  <h3 style="color: #8A2BE2;">Core Programming Languages</h3>
+  <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-4B0082?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <br><br>
+
+  <!-- FRONTEND & MOBILE -->
+  <h3 style="color: #4B0082;">Frontend & Mobile Engineering</h3>
+  <br>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <br><br>
+
+  <!-- BACKEND & MICROSERVICES -->
+  <h3 style="color: #8A2BE2;">Backend Architecture & Microservices</h3>
+  <br>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-4B0082?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <br><br>
+
+  <!-- QA AUTOMATION & TESTING -->
+  <h3 style="color: #4B0082;">QA Automation & Quality Control</h3>
+  <br>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-662299?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <br><br>
+
+  <!-- DATABASES & ORM -->
+  <h3 style="color: #8A2BE2;">Databases, Cloud Storage & ORMs</h3>
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <br><br>
+
+  <!-- DEVOPS & INFRASTRUCTURE -->
+  <h3 style="color: #4B0082;">DevOps, Cloud & Version Control</h3>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-8A2BE2?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <br><br>
+</div>
+
+<br>
+<hr style="border: 1px solid #4B0082; border-radius: 5px; width: 90%;">
+<br>
+
+<!-- ======================= GITHUB PERFORMANCE ANALYTICS ======================= -->
+<h2 align="center">GitHub Performance Analytics</h2>
+<p align="center"><i>Real-time data telemetry of my open-source contributions.</i></p>
+<br>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashenlakmal&theme=radical&no-frame=true&no-bg=true&margin-w=15&random=1" alt="GitHub Trophies" width="100%"/>
 </div>
 
 <br>
 
-<h2 align="center"> CODING ACTIVITY</h2>
-
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashenlakmal&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <table border="0" cellpadding="0" cellspacing="10">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/ashenlakmal">
+          <img src="https://github-readme-stats.vercel.app/api?username=ashenlakmal&show_icons=true&title_color=8A2BE2&icon_color=4B0082&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400&random=1" alt="GitHub Stats" width="100%" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ashenlakmal">
+          <!-- FIXED STREAK STATS LINK WITH DARK THEME AND CACHE BUST -->
+          <img src="https://streak-stats.demolab.com/?user=ashenlakmal&theme=dark&title_color=8A2BE2&ring=4B0082&fire=8A2BE2&text_color=ffffff&background=0d1117&hide_border=true&random=1" alt="GitHub Streak" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br>
+
+<!-- TOP LANGUAGES -->
+<div align="center">
+  <a href="https://github.com/ashenlakmal">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenlakmal&layout=compact&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400&random=1" alt="Top Languages" width="50%" />
+  </a>
+</div>
+
+<br><br>
+
+<!-- ACTIVITY GRAPH -->
+<h3 align="center">Real-Time Coding Activity Graph</h3>
+<div align="center">
+  <a href="https://github.com/ashenlakmal">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashenlakmal&bg_color=0d1117&color=4B0082&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&title_color=ffffff&random=1" width="85%" alt="Activity Graph" />
+  </a>
+</div>
+
+<br>
+
+<!-- ======================= ANIMATED FOOTER ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=150&section=footer" width="100%" alt="Footer Wave"/>
+</p>
