@@ -4,7 +4,7 @@
 
 <!-- DYNAMIC ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=220&section=header&text=Ashen%20Lakmal&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Architect%20%7C%20Full-Stack%20Expert%20%7C%20QA%20Specialist&descAlignY=55&descSize=22" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=220&section=header&text=Ashen%20Lakmal&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=22" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -15,36 +15,23 @@
 
 <br><br>
 
-<!-- PROFESSIONAL TYPING ANIMATION (DARK PURPLE THEME) -->
+<!-- PROFESSIONAL TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&weight=600&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=80&lines=Hi+there,+I'm+Ashen+Lakmal;Architecting+Scalable+Enterprise+Web+%26+Mobile+Solutions;Mobile+App+Developer+(Flutter+%7C+Kotlin+%7C+Android);Full-Stack+Engineer+(Angular+%7C+Spring+Boot+%7C+MERN);QA+Automation+Master+(Playwright+%7C+Selenium+%7C+Postman);Bridging+the+gap+between+Design,+Code,+and+Quality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&weight=600&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=80&lines=Hi+there,+I'm+Ashen+Lakmal;Architecting+Scalable+Enterprise+Web+%26+Mobile+Solutions;Mobile+App+Developer+;Full-Stack+Developer+(Angular+%7C+Spring+Boot+%7C+MERN);Bridging+the+gap+between+Design,+Code,+and+Quality" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- SOCIAL LINKS & CONTACT DESK -->
 <div align="center">
   <br>
-  <a href="mailto:kahadawaarachchiashen@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ashen-lakmal2"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://cheerful-pony-bc99ce.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/ashenlakmal"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:kahadawaarachchiashen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ashen-lakmal2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://cheerful-pony-bc99ce.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/ashenlakmal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <br><br>
 </div>
 
-<hr style="border: 1px solid #4B0082; border-radius: 5px; width: 90%;">
-
-<!-- ======================= SNAKE ANIMATION (GITHUB CONTRIBUTION GRID) ======================= -->
-<h2 align="center">GitHub Contribution Grid</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashenlakmal/ashenlakmal/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashenlakmal/ashenlakmal/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashenlakmal/ashenlakmal/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
 <hr style="border: 1px solid #4B0082; border-radius: 5px; width: 90%;">
 <br>
 
@@ -54,17 +41,17 @@
     <td width="65%" valign="top">
       <h2 style="color: #8A2BE2;">About My Engineering Journey</h2>
       <p style="font-size: 16px; line-height: 1.7; text-align: justify;">
-        I am a highly driven <b>Software Engineer</b> with a profound passion for building robust, high-performance, and scalable applications. My expertise lies at the critical intersection of seamless frontend interfaces, resilient backend microservices, and airtight quality assurance. I don't just write code; I engineer solutions that solve real-world problems.
+        I am a highly driven <b>Software Engineer</b> with a profound passion for building robust, high-performance, and scalable applications. My expertise lies at the critical intersection of seamless frontend interfaces, resilient backend microservices, and dynamic mobile applications. I don't just write code; I engineer solutions that solve real-world problems.
       </p>
       <p style="font-size: 16px; line-height: 1.7; text-align: justify;">
-        Possessing a comprehensive command over the <b>Full-Stack Ecosystem</b>, <b>Mobile Development</b>, and <b>Automated Testing</b>, I design systems built to scale from day one. Whether it's crafting cross-platform mobile experiences, orchestrating complex databases, or ensuring zero-defect deployments through automated pipelines, my focus is always on delivering enterprise-grade software.
+        Possessing a comprehensive command over the <b>Full-Stack Ecosystem</b> and <b>Mobile Development</b>, I design systems built to scale from day one. Whether it's crafting cross-platform mobile experiences, orchestrating complex databases, or ensuring zero-defect deployments through automated pipelines, my focus is always on delivering enterprise-grade software.
       </p>
       <br>
       <h3 style="color: #4B0082;">Core Competencies & Domains:</h3>
       <ul>
-        <li><b>Mobile Ecosystem:</b> Native Android (Kotlin), Cross-Platform (Flutter), Mobile UI/UX Architecture.</li>
+        <li><b>Mobile Ecosystem:</b> Native Android (Kotlin), Cross-Platform (Flutter, Dart).</li>
         <li><b>Full-Stack Mastery:</b> Angular, React, Spring Boot, Express.js, Node.js, PHP (OOP).</li>
-        <li><b>QA Automation & Testing:</b> End-to-End browser testing via Playwright, Selenium, & API testing with Postman.</li>
+        <li><b>Quality Assurance:</b> End-to-End browser testing via Playwright, Selenium, & API testing with Postman.</li>
         <li><b>DevOps & Infrastructure:</b> CI/CD Pipelines, GitHub Actions, Linux Server Administration, Cloud Deployments.</li>
       </ul>
     </td>
@@ -105,7 +92,6 @@
   <br>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
   <img src="https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -113,8 +99,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <br><br>
 
   <!-- BACKEND & MICROSERVICES -->
@@ -142,8 +128,6 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-662299?style=for-the-badge&logo=appium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
   <br><br>
 
   <!-- DATABASES & ORM -->
@@ -182,53 +166,21 @@
 <hr style="border: 1px solid #4B0082; border-radius: 5px; width: 90%;">
 <br>
 
-<!-- ======================= GITHUB PERFORMANCE ANALYTICS ======================= -->
-<h2 align="center">GitHub Performance Analytics</h2>
-<p align="center"><i>Real-time data telemetry of my open-source contributions.</i></p>
-<br>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashenlakmal&theme=radical&no-frame=true&no-bg=true&margin-w=15&random=1" alt="GitHub Trophies" width="100%"/>
-</div>
-
+<!-- ======================= CURRENT FOCUS & WORKFLOW ======================= -->
+<h2 align="center">Current Focus & Workflow</h2>
+<p align="center"><i>Constantly evolving and adapting to the latest industry standards.</i></p>
 <br>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="10">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/ashenlakmal">
-          <img src="https://github-readme-stats.vercel.app/api?username=ashenlakmal&show_icons=true&title_color=8A2BE2&icon_color=4B0082&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400&random=1" alt="GitHub Stats" width="100%" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ashenlakmal">
-          <!-- FIXED STREAK STATS LINK WITH DARK THEME AND CACHE BUST -->
-          <img src="https://streak-stats.demolab.com/?user=ashenlakmal&theme=dark&title_color=8A2BE2&ring=4B0082&fire=8A2BE2&text_color=ffffff&background=0d1117&hide_border=true&random=1" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- TOP LANGUAGES -->
-<div align="center">
-  <a href="https://github.com/ashenlakmal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenlakmal&layout=compact&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400&random=1" alt="Top Languages" width="50%" />
-  </a>
+  <img src="https://img.shields.io/badge/Currently_Building-Web_%26_Mobile_Apps-007FFF?style=for-the-badge&logo=flutter&logoColor=white" alt="Building" />
+  <img src="https://img.shields.io/badge/Focusing_On-Flutter,_Dart_%26_MERN,_MEAN-000000?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Always_Improving-Full--Stack_Architecture-3DDC84?style=for-the-badge&logo=angular&logoColor=white" alt="Improving" />
 </div>
 
 <br><br>
 
-<!-- ACTIVITY GRAPH -->
-<h3 align="center">Real-Time Coding Activity Graph</h3>
 <div align="center">
-  <a href="https://github.com/ashenlakmal">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashenlakmal&bg_color=0d1117&color=4B0082&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&title_color=ffffff&random=1" width="85%" alt="Activity Graph" />
-  </a>
+  <img src="https://raw.githubusercontent.com/7ymx/7ymx/main/Images/developer.gif" width="450" alt="Coding GIF" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(75, 0, 130, 0.5);" />
 </div>
 
 <br>
