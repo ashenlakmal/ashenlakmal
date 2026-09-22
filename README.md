@@ -173,7 +173,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Currently_Building-Web_%26_Mobile_Apps-007FFF?style=for-the-badge&logo=flutter&logoColor=white" alt="Building" />
-  <img src="https://img.shields.io/badge/Focusing_On-Flutter,_Dart_%26_MERN,_MEAN-000000?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focusing_On-Flutter,_%26_MERN,_MEAN-000000?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Always_Improving-Full--Stack_Architecture-3DDC84?style=for-the-badge&logo=angular&logoColor=white" alt="Improving" />
 </div>
 
